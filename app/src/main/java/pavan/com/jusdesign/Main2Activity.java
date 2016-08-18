@@ -21,6 +21,7 @@ public class Main2Activity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
 
 
+// pavankavvuri@gmail.com
 
         switch (item.getItemId()) {
             case R.id.action_settings:
