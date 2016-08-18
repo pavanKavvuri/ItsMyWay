@@ -12,13 +12,17 @@ public class Main2Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
         Toolbar myToolbar = (Toolbar) findViewById(R.id.my_toolbar);
-       // setSupportActionBar(myChildToolbar);
+       //setSupportActionBar(myChildToolbar);
     }
 
 
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
+
+
+               // pavankavvuri@gmail.com
+
         switch (item.getItemId()) {
             case R.id.action_settings:
                 // User chose the "Settings" item, show the app settings UI...
